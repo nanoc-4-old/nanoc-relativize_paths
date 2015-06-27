@@ -1,19 +1,3 @@
-[![Build Status](https://travis-ci.org/nanoc/nanoc-relativize_paths.png)](https://travis-ci.org/nanoc/nanoc-relativize_paths)
-[![Code Climate](https://codeclimate.com/github/nanoc/nanoc-relativize_paths.png)](https://codeclimate.com/github/nanoc/nanoc-relativize_paths)
-[![Coverage Status](https://coveralls.io/repos/nanoc/nanoc-relativize_paths/badge.png?branch=master)](https://coveralls.io/r/nanoc/nanoc-relativize_paths)
+This repository was part of the initial attempt at writing nanoc 4. That attempt did not go as initially planned, and was cancelled mid May 2015.
 
-# nanoc-relativize_paths
-
-This provides a filter that relativizes all paths for [nanoc](http://nanoc.ws).
-
-## Installation
-
-`gem install nanoc-relativize_paths`
-
-## Usage
-
-```ruby
-filter :relativize_paths
-```
-
-This filter takes no options.
+Do not despair! There is a _true_ nanoc 4, and it lives in the [nanoc/nanoc repository](http://github.com/nanoc/nanoc). For information about nanoc 4 and how to upgrade, consult the [nanoc 4 upgrade guide](http://nanoc.ws/docs/nanoc-4-upgrade-guide/).
